@@ -4,10 +4,25 @@ public class Student {
     public String id;
     public int year_of_study = 1;
 
-    public Student(String name,String id){
+    public void setName(String name)
+    {
         this.name = name;
+    }
+    public void setId(String id)
+    {
         this.id = id;
-
+    }
+    public String getName()
+    {
+        return  name;
+    }
+    public String getId()
+    {
+        return id;
+    }
+    public int getYear_of_study()
+    {
+        return  year_of_study;
     }
     void Update(){
         year_of_study ++;
@@ -15,20 +30,7 @@ public class Student {
 
 
 
-    public void GetID()
-    {
-        System.out.println(id);
-    }
 
-    public  void GetName()
-    {
-        System.out.println(name);
-    }
-
-    public  void GetYearOfStudy()
-    {
-        System.out.println(year_of_study);
-    }
 
 
 }
