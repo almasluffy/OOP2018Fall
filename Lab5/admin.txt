@@ -1,0 +1,10 @@
+almas
+103327120
+
+2018-11-17T20:41:47.172877800 Admin logged into a system
+2018-11-17T20:43:23.454045800 Admin logged into a system
+2018-11-17T20:43:23.454045800 Admin added new course PP1
+2018-11-17T20:43:23.454045800Admin added new instructor BoburMuckimbaev
+2018-11-17T20:43:23.454045800Admin added new TextBook VseOProge
+2018-11-20T10:28:15.735666400 Admin logged into a system
+2018-11-20T10:28:15.735666400 Admin added new TextBook almas

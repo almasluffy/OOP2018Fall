@@ -1,0 +1,8 @@
+1) Naruto Uzumaki - 'C'
+2) Sakura Haruno - 'A'
+3) Nara Shikamaro - 'F'
+4) Sasuke Uchiha - 'B'
+
+Average - 49
+Maximum - 100
+Minimum - 11
